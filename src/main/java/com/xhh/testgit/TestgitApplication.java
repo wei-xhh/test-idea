@@ -10,7 +10,7 @@ public class TestgitApplication {
         SpringApplication.run(TestgitApplication.class, args);
         System.out.println("right...");
         System.out.println("left...");
-        System.out.println("测试");
+        System.out.println("测试分支");
     }
 
 }
